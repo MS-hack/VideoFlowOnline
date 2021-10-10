@@ -1,0 +1,58 @@
+[
+  {
+    "lastSeen": 1633148062134,
+    "isActive": true,
+    "record": false,
+    "suspended": false,
+    "sourceSegments": 4242,
+    "transcodedSegments": 16752,
+    "sourceSegmentsDuration": 8553.493,
+    "transcodedSegmentsDuration": 33494.392,
+    "sourceBytes": 1877240160,
+    "transcodedBytes": 2436528692,
+    "id": "81286fca-5134-47bb-8ab2-e6ebe00175db",
+    "kind": "stream",
+    "name": "Ming",
+    "region": "sin",
+    "userId": "14da9b83-29a5-4ede-950c-e8fdb10c5252",
+    "profiles": [
+      {
+        "fps": 0,
+        "name": "240p0",
+        "width": 426,
+        "height": 240,
+        "bitrate": 250000
+      },
+      {
+        "fps": 0,
+        "name": "360p0",
+        "width": 640,
+        "height": 360,
+        "bitrate": 800000
+      },
+      {
+        "fps": 0,
+        "name": "480p0",
+        "width": 854,
+        "height": 480,
+        "bitrate": 1600000
+      },
+      {
+        "fps": 0,
+        "name": "720p0",
+        "width": 1280,
+        "height": 720,
+        "bitrate": 3000000
+      }
+    ],
+    "createdAt": 1632493569716,
+    "streamKey": "8128-9mc0-narn-bgwj",
+    "ingestRate": 323198.40079960023,
+    "playbackId": "8128fj2yk2qjnfi3",
+    "renditions": {},
+    "multistream": {
+      "targets": []
+    },
+    "outgoingRate": 638692.6536731635
+  }
+]

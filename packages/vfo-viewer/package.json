@@ -1,0 +1,30 @@
+{
+  "name": "vfo-viewer",
+  "private": true,
+  "version": "0.2.0",
+  "scripts": {
+    "dev": "PORT=3006 next dev",
+    "build": "next build",
+    "start": "PORT=3006 next start"
+  },
+  "dependencies": {
+    "@ensdomains/ensjs": "^2.0.1",
+    "@ethersproject/contracts": "^5.4.1",
+    "@superfluid-finance/js-sdk": "^0.5.5",
+    "@truffle/contract": "^4.3.38",
+    "axios": "^0.22.0",
+    "daisyui": "^1.14.2",
+    "ether-contract-react": "^0.0.3",
+    "ethers": "5.0.0",
+    "next": "latest",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-player": "^2.9.0",
+    "web3modal": "^1.9.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
+  }
+}
